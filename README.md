@@ -5,6 +5,9 @@ reference:
 
   only browserify work so far. webpack doesn't work.
 
+
+  https://irian.to/blogs/bundle-your-javascript-code-from-scratch/
+
 notes:
 
   --save-dev is used to save the package for development purpose. Example: unit tests, minification..
