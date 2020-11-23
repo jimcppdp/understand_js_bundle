@@ -8,6 +8,8 @@ reference:
 
   https://irian.to/blogs/bundle-your-javascript-code-from-scratch/
 
+  this one is teaching for how to create bundler yourself, skip
+
 notes:
 
   --save-dev is used to save the package for development purpose. Example: unit tests, minification..
